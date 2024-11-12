@@ -1,2 +1,3 @@
-# sentia-backend-public
-sentia backend public version
+# sentIA-backend
+
+backend with fastapi and firebase as database

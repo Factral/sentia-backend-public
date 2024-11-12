@@ -1,0 +1,24 @@
+#API:
+fastapi==0.100.0
+hypercorn==0.14.4
+
+
+#NEW API
+Pyrebase4
+
+pydantic~=2.9.2
+protobuf~=5.29.0rc2
+python-multipart
+
+#xgboost
+joblib~=1.4.2
+pandas~=2.2.3
+xgboost
+scikit-learn
+
+# LLM
+google-generativeai
+groq~=0.11.0
+huggingface_hub
+requests~=2.32.3
+huggingface-hub~=0.26.2
